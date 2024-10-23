@@ -29,7 +29,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "Suhail-X-Md"
+      "value": "Suhail-VEROX-Md"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
